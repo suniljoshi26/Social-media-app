@@ -8,7 +8,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div className="bg-gray-400">
+    <div className="">
       <Navbar />
       <div className="flex  bg-blue-400 h-40">
         <SideBar></SideBar>
